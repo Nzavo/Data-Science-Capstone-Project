@@ -11,6 +11,18 @@ SpaceX advertises Falcon 9 rocket launches on its website, with a cost of 62 mil
 To apply data science toolkit and machine learning in order to accurately predict the likelihood of the first stage rocket landing successfully, and thus determine the cost of a launch.
 Explore the data in order to obtain more insight from the data.
 
+## Methodology
+1. Data Collection
+> Using SpaceX REST API as well as Webscrapping from wikipedia
+ 
+2. Data Munging
+> Data cleaning by dealing with missing values
+> Using one hot encoding to prepare the data for binary classification
+
+3. Conducted exploratory data analysis (EDA) using visualization and SQL
+4. Performed interactive visual analytics using Folium and Plotly Dash
+5. Performed predictive analysis using classification models
+
 ## Deliverables
 Accurate predictive algorithms
 Business case report to stakeholders
